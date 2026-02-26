@@ -1,9 +1,18 @@
-Unemployment Analysis Project
+Sales Prediction Using Machine Learning
 
+This project predicts product sales based on advertisement cost.
 
-Language: Python
-Tool: Jupyter Notebook
-Libraries: Pandas, Matplotlib, Seaborn
+ Tools
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
 
-This project analyzes unemployment rate in india
-and shows trends using graphs.
+ Model
+- Linear Regression
+
+ Features
+- Sales forecasting
+- Graph visualization
+- Accuracy score
+
