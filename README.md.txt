@@ -1,8 +1,9 @@
-Iris Flower Classification Project 
+Unemployment Analysis Project
 
 
 Language: Python
 Tool: Jupyter Notebook
-Algorithm: Logistic Regression 
+Libraries: Pandas, Matplotlib, Seaborn
 
-This project predicts flower species using machine learning.
+This project analyzes unemployment rate in india
+and shows trends using graphs.
